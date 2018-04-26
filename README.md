@@ -3,7 +3,6 @@ The Pyrofuge is designed to provide doctors in developing countries who lack suf
 
 ![alt text](https://github.com/teamprometheus/Pyrofuge/blob/master/Test%20Pic%20Explode%20Complete%201.png)
 ![alt text](https://github.com/teamprometheus/Pyrofuge/blob/master/Test%20Pic%20Complete%20(1).png)
-
-![alt text] (https://github.com/teamprometheus/Pyrofuge/blob/master/Centrifuge%20Bottom.PNG)
-![alt text] (https://github.com/teamprometheus/Pyrofuge/blob/master/Centrifuge%20Lid.PNG)
-![alt text] (https://github.com/teamprometheus/Pyrofuge/blob/master/Centrifuge%20Top.PNG)
+![alt text](https://github.com/teamprometheus/Pyrofuge/blob/master/Centrifuge%20Bottom.PNG)
+![alt text](https://github.com/teamprometheus/Pyrofuge/blob/master/Centrifuge%20Lid.PNG)
+![alt text](https://github.com/teamprometheus/Pyrofuge/blob/master/Centrifuge%20Top.PNG)

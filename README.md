@@ -3,6 +3,6 @@ To aid doctors combating infectious diseases by constructing a cost effective ce
 
 ![alt text](https://github.com/teamprometheus/Pyrofuge/blob/master/Test%20Pic%20Complete%20(1).png)
 
-![alt text](https://github.com/cnaik2/3D-Printed-Centrifuge-Lab/blob/master/top.PNG)
+![alt text](https://github.com/teamprometheus/Pyrofuge/blob/master/Test%20Pic%20Explode%20Complete%201.png)
 
 ![alt text](https://github.com/cnaik2/3D-Printed-Centrifuge-Lab/blob/master/lid.PNG)
